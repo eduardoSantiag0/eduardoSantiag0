@@ -1,10 +1,5 @@
-###
 
-<div align="center">
-  <img height="200" src="https://github.com/eduardoSantiag0.png" />
-</div>
-
-## Hi there, my name is Eduardo Santiago 👋🦅
+## Hi there, I'm Eduardo 👋🦅
 
 ###
 
