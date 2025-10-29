@@ -25,12 +25,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
 </div>
 
 ###
 
+<div>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardoSantiag0&theme=tokyonight" style="width: 600px; height: 250px;"/>
 
+</div>
 <!--
 **eduardoSantiag0/eduardoSantiag0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
