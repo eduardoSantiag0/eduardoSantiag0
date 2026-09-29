@@ -42,21 +42,18 @@
 
 ###
 
-<div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardoSantiag0&theme=tokyonight" style="width: 600px; height: 250px;"/>
-
-</div>
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats-fast.vercel.app/api?username=eduardoSantiag0&show_icons=true&theme=github_dark"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=eduardoSantiag0&theme=github_dark"
+    alt="GitHub Streak"
+  />
+</p>
 <!--
-**eduardoSantiag0/eduardoSantiag0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
